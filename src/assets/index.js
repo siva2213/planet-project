@@ -1,17 +1,14 @@
 export default [
   {
-    name: "Earth",
-    image: "",
+    name: "earth",
     description: "Some Data",
   },
   {
-    name: "Mars",
-    image: "",
+    name: "mars",
     description: "Some Data",
   },
   {
-    name: "Saturn",
-    image: "",
+    name: "saturn",
     description: "Some Data",
   },
 ];

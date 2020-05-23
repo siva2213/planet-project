@@ -17,7 +17,6 @@ export default [
   },
   {
     Name: "NoData",
-    path: "/no-data",
     isExact: true,
     component: NoData,
   },
